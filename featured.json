@@ -1,0 +1,152 @@
+[
+    {
+        "title": "Tripod tripod with selfie light, wireless shutter release",
+        "product_image": "2-32-500x500.jpg",
+        "avg_rating": 3,
+        "price_original": 17.99,
+        "selling_price": 17.99,
+        "is_discount": false,
+        "in_stock": true,
+        "reviews": [
+            {
+                "desc": "title",
+                "rating": 3
+            }
+        ]
+    },
+    {
+        "title": "Tech-Protect — Marble 2 case for iPhone 12_12 Pro, pink",
+        "product_image": "1-30-500x500.jpg",
+        "avg_rating": 5,
+        "price_original": 9.99,
+        "selling_price": 7.99,
+        "is_discount": true,
+        "in_stock": true,
+        "reviews": [
+            {
+                "desc": "title",
+                "rating": 5
+            }
+        ]
+    },
+    {
+        "title": "Spigen — Optik Crystal Case for iPhone 12, chrome",
+        "product_image": "1-27-500x500.jpg",
+        "avg_rating": 5,
+        "price_original": 24.48,
+        "selling_price": 13.88,
+        "is_discount": true,
+        "in_stock": true,
+        "reviews": [
+            {
+                "desc": "title",
+                "rating": 5
+            }
+        ]
+    },
+    {
+        "title": "Spigen — Case Ultra Hybrid with MagSafe for 13 Pro Max",
+        "product_image": "1-26-500x500.jpg",
+        "avg_rating": 4,
+        "price_original": 14.45,
+        "selling_price": 21.99,
+        "is_discount": true,
+        "in_stock": true,
+        "reviews": [
+            {
+                "desc": "title",
+                "rating": 4
+            }
+        ]
+    },
+    {
+        "title": "Spigen — Case Ultra Hybrid with MagSafe for 12 Pro",
+        "product_image": "1-25-500x500.jpg",
+        "avg_rating": 5,
+        "price_original": 27.99,
+        "selling_price": 18.99,
+        "is_discount": true,
+        "in_stock": true,
+        "reviews": [
+            {
+                "desc": "title",
+                "rating": 5
+            }
+        ]
+    },
+    {
+        "title": "Tripod tripod with selfie light, wireless shutter release",
+        "product_image": "2-32-500x500.jpg",
+        "avg_rating": 3,
+        "price_original": 17.99,
+        "selling_price": 17.99,
+        "is_discount": false,
+        "in_stock": true,
+        "reviews": [
+            {
+                "desc": "title",
+                "rating": 3
+            }
+        ]
+    },
+    {
+        "title": "Tech-Protect — Marble 2 case for iPhone 12_12 Pro, pink",
+        "product_image": "1-30-500x500.jpg",
+        "avg_rating": 5,
+        "price_original": 9.99,
+        "selling_price": 7.99,
+        "is_discount": true,
+        "in_stock": true,
+        "reviews": [
+            {
+                "desc": "title",
+                "rating": 5
+            }
+        ]
+    },
+    {
+        "title": "Spigen — Optik Crystal Case for iPhone 12, chrome",
+        "product_image": "1-27-500x500.jpg",
+        "avg_rating": 5,
+        "price_original": 24.48,
+        "selling_price": 13.88,
+        "is_discount": true,
+        "in_stock": true,
+        "reviews": [
+            {
+                "desc": "title",
+                "rating": 5
+            }
+        ]
+    },
+    {
+        "title": "Spigen — Case Ultra Hybrid with MagSafe for 13 Pro Max",
+        "product_image": "1-26-500x500.jpg",
+        "avg_rating": 4,
+        "price_original": 14.45,
+        "selling_price": 21.99,
+        "is_discount": true,
+        "in_stock": true,
+        "reviews": [
+            {
+                "desc": "title",
+                "rating": 4
+            }
+        ]
+    },
+    {
+        "title": "Spigen — Case Ultra Hybrid with MagSafe for 12 Pro",
+        "product_image": "1-25-500x500.jpg",
+        "avg_rating": 5,
+        "price_original": 27.99,
+        "selling_price": 18.99,
+        "is_discount": true,
+        "in_stock": true,
+        "reviews": [
+            {
+                "desc": "title",
+                "rating": 5
+            }
+        ]
+    }
+]
